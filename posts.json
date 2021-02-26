@@ -1,0 +1,12 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "title": "Sermon Quote - February 26, 2021",
+            "content_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "https://nicholasoneil.github.io/Sermon-Quotes-App/img/default-quote.png",
+            "published_date": "2021-02-26T5:55-05:00",
+            "tags": ["Sermon Quote", "Sermon", "Quote"]
+        }
+    ]
+}
